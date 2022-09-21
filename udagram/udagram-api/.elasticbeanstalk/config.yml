@@ -1,0 +1,9 @@
+branch-defaults:
+  master:
+    environment: main-udagram-api
+global:
+  application_name: udagram-api
+  default_ec2_keyname: udagram-api-ec2-access-key-us-east-1
+  default_platform: Node.js 16 running on 64bit Amazon Linux 2/5.5.6
+  default_region: us-east-1
+  sc: git
